@@ -1,0 +1,7 @@
+name: AntiCreeperGrief
+version: 1.0
+main: tools.tgb.AntiCreeperGrief.AntiCreeperGrief
+description: Simple plugin to disable creeper griefing
+api-version: 1.15
+author: tgb
+website: tgb.tools
